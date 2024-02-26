@@ -11,6 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+
+https://github.com/Veer009/Weather-App/assets/82392775/79a1af16-a1eb-4751-a3ae-c95fe0938ac7
+
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
